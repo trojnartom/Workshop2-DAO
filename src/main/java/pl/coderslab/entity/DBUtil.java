@@ -1,4 +1,4 @@
-package pl.trojnartom.ws2DAO;
+package pl.coderslab.entity;
 
 import java.sql.*;
 
