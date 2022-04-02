@@ -70,6 +70,10 @@
           <option name="url" value="https://github.com/trojnartom/ONL_JEE_W_11_Egzamin_2_-_wariant_1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/trojnartom/ONL_JEE_W_11_Spring_Zaawansowana.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/Q-Black" />
